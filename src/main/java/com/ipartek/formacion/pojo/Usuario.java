@@ -3,17 +3,17 @@ package com.ipartek.formacion.pojo;
 public class Usuario {
 	
 //propiedades
-	private String nombre;
-	private String pasword;
-	private String email;
+	 private String nombre;
+	 private String pasword;
+	 private String email;
 	
 //Constructores
 	public Usuario() {
 		super();
-		this.id = -1;
-		this.nombre = "";
-		this.pasword = "";
-		this.email = "";
+		id = -1;
+		nombre = "";
+		pasword = "";
+		email = "";
 
 }
 
